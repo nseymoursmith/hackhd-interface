@@ -1,8 +1,12 @@
 """  
 Arduino interface to HHD camera
+
 Commissioned by photobot.co and released with their
 kind permission
+
 N. Seymour-Smith 26/09/13  
+
+---
 
 Arduino should keep the HHD on standby at all times.
 
