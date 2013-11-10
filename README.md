@@ -4,7 +4,7 @@ Arduino interface to HHD camera
 Commissioned by photobot.co and released with their
 kind permission
 
-N. Seymour-Smith 26/09/13  
+N. Seymour-Smith 26/09/13  (nseymoursmith.github.io)
 
 ---
 
